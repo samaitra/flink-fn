@@ -35,6 +35,7 @@ $ mvn clean package
 ### Submit the Flink program :
 ```
 $ ./bin/flink run flink-fn-1.0-SNAPSHOT.jar
+```
 
 The .out file will print the counts at the end of each time window as long as words are floating in, e.g.:
 ```
