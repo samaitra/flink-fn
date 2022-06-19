@@ -127,7 +127,7 @@ under the License.
 		<dependency>
 			<groupId>org.springframework</groupId>
 			<artifactId>spring-beans</artifactId>
-			<version>4.3.0.RELEASE</version>
+			<version>5.2.21.RELEASE</version>
 		</dependency>
 	</dependencies>
 
